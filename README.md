@@ -8,5 +8,5 @@
 * [用户使用手册](./manual.md)
 * [软件需求规格说明书](./requirements.md)
 * 软件设计文档
-* 小组分工与贡献率说明
+* [小组分工与贡献率说明](./contribution.md)
 
