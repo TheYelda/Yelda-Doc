@@ -7,6 +7,6 @@
 * 安装部署文档
 * [用户使用手册](./manual.md)
 * [软件需求规格说明书](./requirements.md)
-* 软件设计文档
+* [软件设计文档](./design.md)
 * [小组分工与贡献率说明](./contribution.md)
 
