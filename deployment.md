@@ -234,7 +234,7 @@ ADMIN_PASSWORD = '12345678'     # 管理员密码
 运行后端程序：
 
 ```shell
-(venv) $ python run.py
+(venv) $ gunicorn -w 4 -b 0.0.0.0:10086 production:app
 ```
 
 
