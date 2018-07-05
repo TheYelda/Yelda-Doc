@@ -4,7 +4,7 @@
 > Yelda眼底图像标注系统开发文档
 
 
-* 安装部署文档
+* [安装部署文档](./deployment.md)
 * [用户使用手册](./manual.md)
 * [软件需求规格说明书](./requirements.md)
 * 软件设计文档
